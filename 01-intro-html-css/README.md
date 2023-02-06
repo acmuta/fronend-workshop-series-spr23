@@ -1,8 +1,8 @@
-# 07/01/20: Introduction to HTML and CSS
+# 02/09/23: Introduction to HTML and CSS
 
-[Link to video.](https://www.youtube.com/watch?v=TlfR0JU5gSg&list=PLPO7_kXilXFa6YdXxn5oln1gagcqnFI4l&index=2&t=0s)
+[Link to ACM UCLA Video](https://www.youtube.com/watch?v=TlfR0JU5gSg&list=PLPO7_kXilXFa6YdXxn5oln1gagcqnFI4l&index=2&t=0s)
 
-With Matt and Leo, we will discuss the fundamental languages of the web: HTML and CSS. With them, we will learn how to get started creating a basic website! Here are our learning goals for the lesson along with links to each header:
+We'll be discussing the fundamental languages of the web: HTML and CSS. With them, we will learn how to get started creating a basic website! Here are our learning goals for the lesson along with links to each header:
 
 * What are they used for?
 * Basic HTML tags (headers, paragraph, link, img, lists, div, span)
@@ -381,7 +381,7 @@ We declare an 'a' tag and all its relevant information in the following format: 
 
 You may have noticed that our tag opening has some extra information in it. This is a concept in HTML called a **property**. We will discuss these in greater detail in the [properties section](#properties) of this document, but for now, just think of it as an "argument" to the tag.
 
-In this case, the `href` property is the **Hypertext REFerence** - or link - that the anchor should navigate to. If we wanted to create a link to UCLA ACM's website, for example, we would add to our webpage the following:
+In this case, the `href` property is the **Hypertext REFerence** - or link - that the anchor should navigate to. If we wanted to create a link to UTA ACM's website, for example, we would add to our webpage the following:
 
 ```html
 <!-- ... -->
@@ -389,13 +389,13 @@ In this case, the `href` property is the **Hypertext REFerence** - or link - tha
             </ul>
         </div>
 
-        <a href="http://www.uclaacm.com/">Visit UCLA ACM!</a>
+        <a href="http://acm.uta.edu/">Visit UTA ACM!</a>
 <!-- ... -->
 ```
 
 Taking a look at our webpage now:
 
-![the document, with the addition of a link to UCLA ACM's website](images/a.png)
+![the document, with the addition of a link to UTA ACM's website](images/a.png)
 
 ### `<img>`
 
@@ -435,13 +435,13 @@ With this in mind, let's find an image and add it to our document:
             </ul>
         </div>
 
-        <img src="https://avatars1.githubusercontent.com/u/8324381?s=200&v=4" alt="UCLA ACM logo" />
+        <img src="https://avatars1.githubusercontent.com/u/8324381?s=200&v=4" alt="UTA ACM logo" />
 <!-- ... -->
 ```
 
 Notice we take advantage of the self-closing tag here. Let's open this in our web browser to see what it looks like:
 
-![webpage with addition of UCLA ACM logo](images/img.png)
+![webpage with addition of UTA ACM logo](images/img.png)
 
 ### `<link>`
 

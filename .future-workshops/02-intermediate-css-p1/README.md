@@ -1,6 +1,6 @@
 # Intermediate CSS: The Box Model & Positioning
 
-[Link to video.](https://www.youtube.com/watch?v=ar1Ni6SNaEE&list=PLPO7_kXilXFa6YdXxn5oln1gagcqnFI4l&index=2)
+[Link to ACM UCLA Video](https://www.youtube.com/watch?v=ar1Ni6SNaEE&list=PLPO7_kXilXFa6YdXxn5oln1gagcqnFI4l&index=2)
 
 ## Overview
 

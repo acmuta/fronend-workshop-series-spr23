@@ -1,8 +1,8 @@
-# Learning Labs Summer Crash Course (Summer '20)
+# ACM UTA Frontend Workshop Series (Spring '23)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) ![Creative Commons Attribution 4.0 International License logo](https://i.creativecommons.org/l/by/4.0/80x15.png)
 
-Hey there! This is a repository that contains all of the notes for ACM @ UCLA's Learning Labs Crash Course, which we held online during the summer of 2020. We developed this series to give developers with **zero prior web development experience** enough of a primer to make high-quality beautiful and interactive front-end applications.
+Hey there! This is a repository that contains all of the notes from ACM @ ACM UTA's for our frontend workshop series. Original course content was developed by ACM UCLA. This series is designed to give developers with **zero prior web development experience** enough of a primer to make high-quality beautiful and interactive front-end applications.
 
 While these notes are a good starting point, simply reading through all of these notes is not nearly enough to become a pro web developer! We aimed to give enough of a foundational background and a primer into each relevant area; however, to make great web applications, developers need to **practice aggressively**.
 
@@ -10,34 +10,26 @@ While these notes are a good starting point, simply reading through all of these
 
 Lessons:
 
-* [Lesson 01: Intro to HTML & CSS](https://github.com/uclaacm/learning-lab-crash-course-su20/tree/main/01-intro-html-css)
-* [Lesson 02: Intermediate CSS: The Box Model & Positioning](https://github.com/uclaacm/learning-lab-crash-course-su20/tree/main/02-intermediate-css)
-* [Lesson 03: Intro to JS](https://github.com/uclaacm/learning-lab-crash-course-su20/tree/main/03-intro-js)
-* [Lesson 04: Intermediate CSS: Flexbox & Grid](https://github.com/uclaacm/learning-lab-crash-course-su20/tree/main/04-flexbox-grid)
-* [Lesson 05: A Brief Flyover of CSS Frameworks](https://github.com/uclaacm/learning-lab-crash-course-su20/tree/main/05-css-frameworks)
-* [Lesson 06: A CSS Animations Primer](https://github.com/uclaacm/learning-lab-crash-course-su20/tree/main/06-css-animations)
-* [Lesson 07: Intro to React](https://github.com/uclaacm/learning-lab-crash-course-su20/tree/main/07-intro-react)
-* [Lesson 08: Intro to Design with Figma (guest lecturer: Tomoki!)](https://github.com/uclaacm/learning-lab-crash-course-su20/tree/main/08-intro-figma)
-* [Lesson 09: Intermediate React (Concepts & Patterns)](https://github.com/uclaacm/learning-lab-crash-course-su20/tree/main/09-intermediate-react-1)
-* [Lesson 10: Intro to SASS](https://github.com/uclaacm/learning-lab-crash-course-su20/tree/main/10-sass)
-* [Lesson 11: React Hooks](https://github.com/uclaacm/learning-lab-crash-course-su20/tree/main/11-react-hooks)
-* [Lesson 12: JS Library Tour](https://github.com/uclaacm/learning-lab-crash-course-su20/tree/main/12-js-lib)
-* [Lesson 13: Accessibility on the Web (guest lecturer: Karen!)](https://github.com/uclaacm/learning-lab-crash-course-su20/tree/main/13-accessibility)
-* [Lesson 14: Misc. DevOps](https://github.com/uclaacm/learning-lab-crash-course-su20/tree/main/14-misc-devops)
-* [Lesson 15: Async & Fetch](https://github.com/uclaacm/learning-lab-crash-course-su20/tree/main/15-async-js)
-* [Lesson 16: Intro to Backend Development](https://github.com/uclaacm/learning-lab-crash-course-su20/tree/main/16-intro-backend)
-* [Lesson 17: Intro to Testing in JS](https://github.com/uclaacm/learning-lab-crash-course-su20/tree/main/17-intro-testing-js)
-* [Lesson 18: Intro to Firebase](https://github.com/uclaacm/learning-lab-crash-course-su20/tree/main/18-firebase)
+* [Workshop 01: Intro to HTML/CSS (Feb. 9)]()
+* ~~[Workshop 02: Intermediate CSS: The Box Model & Positioning (Feb. 16)]()~~
+* ~~[Workshop 03: Intermediate CSS: Flexbox & Grid (Feb.23)]()~~
+* ~~[Workshop 04: Advanced CSS: Frameworks, Animations, and Accessibility (Mar. 2)]()~~
+* ~~[Workshop 05: Intro to JavaScript (Mar. 9)]()~~
+* ~~[Workshop 06: Intro DevOps & Design w/ Figma (Mar. 23)]()~~
+* ~~[Workshop 07: Intro to React (Mar. 30)]()~~
+* ~~[Workshop 08: Intermediate React (Apr. 6)]()~~
+* ~~[Workshop 09: Advanced JavaScript: Async JS & Libs (Apr. 13)]()~~
+* ~~[Workshop 10: Intro to Backend w/ Firebase (Apr. 20)]()~~
 
-And two tasks:
+Two optional tasks designed by [ACM UCLA](https://github.com/uclaacm):
 
-1. [Make a portfolio website!](https://github.com/uclaacm/learning-lab-crash-course-su20/blob/main/task-1-portfolio)
-2. [Make a to-do list!](https://github.com/uclaacm/learning-lab-crash-course-su20/blob/main/task-2-to-do-list)
+1. [Make a portfolio website!](https://github.com/acmuta/fronend-workshop-series-spr23/blob/main/task-1-portfolio)
+2. [Make a to-do list!](https://github.com/acmuta/fronend-workshop-series-spr23/blob/main/task-2-to-do-list)
 
-You can also find recorded videos of our summer sessions on the ACM YouTube channel, in [this playlist](https://www.youtube.com/playlist?list=PLPO7_kXilXFa6YdXxn5oln1gagcqnFI4l).
+You can also find recorded videos of our summer sessions on ACM UCLA's YouTube channel, in [this playlist](https://www.youtube.com/playlist?list=PLPO7_kXilXFa6YdXxn5oln1gagcqnFI4l).
 
 ## Licensing and Attribution
 
-These notes were mostly written by Matthew Wang ([@mattxwang](https://github.com/mattxwang)) and Leo Krashanoff ([@krashanoff](https://github.com/krashanoff)). Many thanks to our guest lecturers, Tomoki and Karen. They would like to also thank ACM Hack, the Mozilla Developer Network, and W3Schools, for providing inspiration for some of these notes.
+These workshops were adapted by [ACM UTA](https://github.com/acmuta). The original notes were mostly written by Matthew Wang ([@mattxwang](https://github.com/mattxwang)) and Leo Krashanoff ([@krashanoff](https://github.com/krashanoff)) at [ACM UCLA](https://github.com/uclaacm). 
 
 These notes are published with the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) ([link to legal](https://creativecommons.org/licenses/by/4.0/legalcode)), and all of the code samples with the MIT License. You are free to use them however you wish. If you do, let us know - we'd love to know how you used them, and how we can make them better.
