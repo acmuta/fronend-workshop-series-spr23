@@ -2,15 +2,17 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) ![Creative Commons Attribution 4.0 International License logo](https://i.creativecommons.org/l/by/4.0/80x15.png)
 
-Hey there! This is a repository that contains all of the notes from ACM @ ACM UTA's for our frontend workshop series. Original course content was developed by ACM UCLA. This series is designed to give developers with **zero prior web development experience** enough of a primer to make high-quality beautiful and interactive front-end applications.
+Hey there! This is a repository that contains all of the notes from ACM @ UTA's for our frontend workshop series. Original course content was developed by ACM UCLA. This series is designed to give developers with **zero prior web development experience** enough of a primer to make high-quality beautiful and interactive front-end applications.
 
 While these notes are a good starting point, simply reading through all of these notes is not nearly enough to become a pro web developer! We aimed to give enough of a foundational background and a primer into each relevant area; however, to make great web applications, developers need to **practice aggressively**.
+
+Workshops will be updated here weekly until the conclusion of the series.
 
 ## Table of Contents
 
 Lessons:
 
-* [Workshop 01: Intro to HTML/CSS (Feb. 9)]()
+* [Workshop 01: Intro to HTML/CSS (Feb. 9)](https://github.com/acmuta/frontend-workshop-series-spr23/tree/main/01-intro-html-css)
 * ~~[Workshop 02: Intermediate CSS: The Box Model & Positioning (Feb. 16)]()~~
 * ~~[Workshop 03: Intermediate CSS: Flexbox & Grid (Feb.23)]()~~
 * ~~[Workshop 04: Advanced CSS: Frameworks, Animations, and Accessibility (Mar. 2)]()~~
