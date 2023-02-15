@@ -19,7 +19,7 @@ Online: **[ACM UTA Discord - Event Room](https://discord.gg/8vezXjbwJw)**
 Lessons:
 
 * [Workshop 01: Intro to HTML/CSS (Feb. 9)](https://github.com/acmuta/frontend-workshop-series-spr23/tree/main/01-intro-html-css)
-* ~~[Workshop 02: Intermediate CSS: The Box Model & Positioning (Feb. 16)]()~~
+* [Workshop 02: Intermediate CSS: The Box Model & Positioning (Feb. 16)](https://github.com/acmuta/frontend-workshop-series-spr23/tree/main/02-intermediate-css-p1)
 * ~~[Workshop 03: Intermediate CSS: Flexbox & Grid (Feb.23)]()~~
 * ~~[Workshop 04: Advanced CSS: Frameworks, Animations, and Accessibility (Mar. 2)]()~~
 * ~~[Workshop 05: Intro to JavaScript (Mar. 9)]()~~
