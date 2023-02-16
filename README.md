@@ -12,7 +12,7 @@ Workshops will be updated here weekly until the conclusion of the series.
 
 In-person: **ERB 228**
 
-Online: **[ACM UTA Discord - Event Room](https://discord.gg/8vezXjbwJw)**
+Online: **[Microsoft Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGYzMWZiMTgtZDYwMC00M2ExLWI4ZWQtZjUyYzdhYTI0YTEw%40thread.v2/0?context=%7b%22Tid%22%3a%225cdc5b43-d7be-4caa-8173-729e3b0a62d9%22%2c%22Oid%22%3a%22872c0322-8deb-46b7-9502-72ebb8ae0090%22%7d)**
 
 ## Table of Contents
 
