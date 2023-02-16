@@ -20,14 +20,14 @@ Lessons:
 
 * [Workshop 01: Intro to HTML/CSS (Feb. 9)](https://github.com/acmuta/frontend-workshop-series-spr23/tree/main/01-intro-html-css)
 * [Workshop 02: Intermediate CSS: The Box Model & Positioning (Feb. 16)](https://github.com/acmuta/frontend-workshop-series-spr23/tree/main/02-intermediate-css-p1)
-* ~~[Workshop 03: Intermediate CSS: Flexbox & Grid (Feb.23)]()~~
-* ~~[Workshop 04: Advanced CSS: Frameworks, Animations, and Accessibility (Mar. 2)]()~~
-* ~~[Workshop 05: Intro to JavaScript (Mar. 9)]()~~
-* ~~[Workshop 06: Intro DevOps & Design w/ Figma (Mar. 23)]()~~
-* ~~[Workshop 07: Intro to React (Mar. 30)]()~~
-* ~~[Workshop 08: Intermediate React (Apr. 6)]()~~
-* ~~[Workshop 09: Advanced JavaScript: Async JS & Libs (Apr. 13)]()~~
-* ~~[Workshop 10: Intro to Backend w/ Firebase (Apr. 20)]()~~
+* ~~[Workshop 03: Intermediate CSS: Flexbox & Grid (Feb.23)](https://github.com/acmuta/frontend-workshop-series-spr23/tree/main/03-intermediate-css-p2)~~
+* ~~[Workshop 04: Advanced CSS: Frameworks, Animations, and Accessibility (Mar. 2)](https://github.com/acmuta/frontend-workshop-series-spr23/tree/main/04-advanced-css)~~
+* ~~[Workshop 05: Intro to JavaScript (Mar. 9)](https://github.com/acmuta/frontend-workshop-series-spr23/tree/main/05-intro-js)~~
+* ~~[Workshop 06: Intro DevOps & Design w/ Figma (Mar. 23)](https://github.com/acmuta/frontend-workshop-series-spr23/tree/main/06-css-animations)~~
+* ~~[Workshop 07: Intro to React (Mar. 30)](https://github.com/acmuta/frontend-workshop-series-spr23/tree/main/07-intro-react)~~
+* ~~[Workshop 08: Intermediate React (Apr. 6)](https://github.com/acmuta/frontend-workshop-series-spr23/tree/main/08-intermediate-react)~~
+* ~~[Workshop 09: Advanced JavaScript: Async JS & Libs (Apr. 13)](https://github.com/acmuta/frontend-workshop-series-spr23/tree/main/09-advanced-js)~~
+* ~~[Workshop 10: Intro to Backend w/ Firebase (Apr. 20)](https://github.com/acmuta/frontend-workshop-series-spr23/tree/main/10-intro-backend)~~
 
 Two optional tasks designed by [ACM UCLA](https://github.com/uclaacm):
 
