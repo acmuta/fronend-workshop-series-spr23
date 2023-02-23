@@ -20,7 +20,7 @@ Lessons:
 
 * [Workshop 01: Intro to HTML/CSS (Feb. 9)](https://github.com/acmuta/frontend-workshop-series-spr23/tree/main/01-intro-html-css)
 * [Workshop 02: Intermediate CSS: The Box Model & Positioning (Feb. 16)](https://github.com/acmuta/frontend-workshop-series-spr23/tree/main/02-intermediate-css-p1)
-* ~~[Workshop 03: Intermediate CSS: Flexbox & Grid (Feb.23)](https://github.com/acmuta/frontend-workshop-series-spr23/tree/main/03-intermediate-css-p2)~~
+* [Workshop 03: Intermediate CSS: Flexbox & Grid (Feb.23)](https://github.com/acmuta/frontend-workshop-series-spr23/tree/main/03-intermediate-css-p2)
 * ~~[Workshop 04: Advanced CSS: Frameworks, Animations, and Accessibility (Mar. 2)](https://github.com/acmuta/frontend-workshop-series-spr23/tree/main/04-advanced-css)~~
 * ~~[Workshop 05: Intro to JavaScript (Mar. 9)](https://github.com/acmuta/frontend-workshop-series-spr23/tree/main/05-intro-js)~~
 * ~~[Workshop 06: Intro DevOps & Design w/ Figma (Mar. 23)](https://github.com/acmuta/frontend-workshop-series-spr23/tree/main/06-css-animations)~~

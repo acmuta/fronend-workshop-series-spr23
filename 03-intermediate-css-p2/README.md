@@ -1,6 +1,8 @@
 # Intermediate CSS: Flexbox & Grid
 
-[Link to video.](https://www.youtube.com/watch?v=CBR0R50-jGg)
+Link to video.
+[Link to Sandbox](https://url.lryanle.com/12)
+[Link to Presentation Deck](https://docs.google.com/presentation/d/1jGqmLBibcBT-vgeIlFXRJkO68xAE3RI4m2CyBaOCyMU/edit?usp=sharing)
 
 ## Overview
 
