@@ -5,8 +5,9 @@
  * Written as an async function for cleanliness
  */
 async function getData() {
-  //let data = await fetch("https://dog.ceo/api/breeds/image/random");
-  //return data.json();
+  let data = await fetch("https://dog.ceo/api/breeds/image/random");
+  return data.json();
+  
   /* Without async, this code could be written as:
   return fetch("https://dog.ceo/api/breeds/image/random")
     .then((response) => response.json());
